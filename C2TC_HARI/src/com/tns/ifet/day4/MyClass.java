@@ -1,7 +1,5 @@
 package com.tns.ifet.day4;
 
-import com.tnsif.dayfour.thirdpackage.MyClass;
-
 public class MyClass {
 	private static MyClass obj=new MyClass();
 	private int id;
